@@ -58,7 +58,7 @@ export default function FullWidthGrid() {
                     <Typography sx={{textAlign:'center', fontSize:'15px',fontWeight:'550',color:'#1e1e27',}} >
                     Fujifilm X100T 16 MP Digital Camera (Silver)
                     </Typography>
-                    <Typography sx={{textAlign:'center'}} ><span style={{color:'#fe4c50', fontWeight:'550',fontSize:'16px'}} >$520.00</span>sasasa</Typography>
+                    <Typography sx={{textAlign:'center'}} ><span style={{color:'#fe4c50', fontWeight:'550',fontSize:'16px'}} >$520.00</span><span style={{paddingLeft:'5%', color:'gray', textDecorationLine:'line-through',fontWeight:'550',fontSize:'14px'}} >$590.00</span></Typography>
                     <Box sx={{border:'1px solid white',marginTop:'7%',width:'99.6%'}} >
                       <Button className='btn' sx={{ textAlign:'center',width:'100%',background:'#fe4c50',color:'white',fontSize:'14px',fontWeight:'550', "&:hover": {background:'#ed7b7d',color:'white',}}} >ADD TO CARD</Button>
                     </Box>
@@ -145,7 +145,7 @@ export default function FullWidthGrid() {
                     <Typography sx={{textAlign:'center', fontSize:'15px',fontWeight:'550',color:'#1e1e27',}} >
                     Fujifilm X100T 16 MP Digital Camera (Silver)
                     </Typography>
-                    <Typography sx={{textAlign:'center'}} ><span style={{color:'#fe4c50', fontWeight:'550',fontSize:'16px'}} >$520.00</span>sasasa</Typography>
+                    <Typography sx={{textAlign:'center'}} ><span style={{color:'#fe4c50', fontWeight:'550',fontSize:'16px'}} >$520.00</span><span style={{paddingLeft:'5%', color:'gray', textDecorationLine:'line-through',fontWeight:'550',fontSize:'14px'}} >$590.00</span></Typography>
                     <Box sx={{border:'1px solid white',marginTop:'7%',width:'99.5%'}} >
                       <Button className='btn' sx={{ textAlign:'center',width:'100%',background:'#fe4c50',color:'white',fontSize:'14px',fontWeight:'550', "&:hover": {background:'#ed7b7d',color:'white',}}} >ADD TO CARD</Button>
                     </Box>
