@@ -1,0 +1,22 @@
+.father:hover .like{
+    opacity: 1;
+    transition: 0.2s;
+}
+.father:hover .btn {
+    transition: 0.2s;
+    opacity: 1;
+}
+.father:hover{
+    cursor: pointer;
+    transition: 0.2s;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.father{
+    transition: 0.2s;
+}
+.btn{
+    opacity: 0;
+}
+.like{
+    opacity: 0;
+}
