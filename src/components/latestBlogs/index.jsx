@@ -23,7 +23,10 @@ export default function RowAndColumnSpacing() {
         Latest Blogs<br/>
         {/* <hr sx={{color:'red'}} /> */}
       </Typography>
-        <Box sx={{border:'3px solid red',width:'100px',justifyContent:'center',textAlign:'center'}} ></Box>
+      <Box sx={{justifyContent:'center', display:'flex',paddingBottom:'3%',paddingTop:'3%'}} >
+        <Box sx={{borderBottom:'3px solid red',width:'100px',justifyContent:'center',textAlign:'center'}} ></Box>
+
+      </Box>
       <Grid container spacing={35}>
         <Grid item xs={10} md={6} lg={3}>
         <Typography className='image'>
